@@ -1,0 +1,5 @@
+Your numbers were:[1, 23, 44, 77, 11, 10]
+the winnings numbers are:[37, 28, 18, 26, 21, 24]
+You earn nothing
+07 Dec 2020
+12:54PM
